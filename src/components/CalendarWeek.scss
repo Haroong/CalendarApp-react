@@ -1,0 +1,10 @@
+.CalendarWeek {
+  table {
+    & :first-child {
+      color: red;
+    }
+    th {
+      padding: 1.5rem;
+    }
+  }
+}
